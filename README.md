@@ -11,7 +11,9 @@
 
 ## Description of Code 
 
-* This code takes the air quality changes in the US and helps predict the best times to engage in outdoor activities in the year. 
+* The goal is to analyze the data to determine the levels of PM2.5 polluting the air in a specific, chosen region in the United States. The user can manually select what region/ city they are searching for.
+  
+* To measure levels of PM2.5, the program returns the average levels of PM2.5 from the past two decades, along with returning a graph so we can observe the trend of the increase/ decrease of this pollutant (with hopes to train prediction models in the future). 
 
 ## Code Implementation 
     
