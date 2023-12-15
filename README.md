@@ -5,6 +5,8 @@
 
 *Assistant Professor* Mike Ryu (mryu@westmont.edu) 
 
+## Presentation [Link](https://docs.google.com/presentation/d/1erT-hamAlMktCLs4XP8RrxOa5tyH1ziZqTlAUIASJlM/edit#slide=id.p)
+
 ## Autor Information
 * **Name(s)**: Samuel An
 * **Email(s)**: san@westmont.edu
